@@ -1,0 +1,1 @@
+char *versionString="v1.00d";  // version string, 6 characters (prints for 1 second at startup)
